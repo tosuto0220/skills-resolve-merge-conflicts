@@ -1,3 +1,3 @@
 # References
-
-* octocat 1 😈
+- Book: Advanced Git Techniques
+- Article: Resolving Conflicts in Git
